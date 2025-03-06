@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karunamoorthy S</h1>
+<h1 align="center">Hello 👋, I'm Karunamoorthy S</h1>
 <h3 align="center" style="color:#FF5733;">🚀 Coder | Learner | Innovator 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -36,25 +36,22 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karunaselvaraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<h3 align="left">✨ Stars ✨</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karunaselvaraj&layout=compact&theme=" alt=Karunaselvaraj />
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karunaselvaraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Karunaselvaraj&show_icons=true&locale=en&theme=" alt="Karunaselvaraj" /></p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunaselvaraj&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">⚡ Statistics 🚀</h3>
+<div align="center">
+<a href="https://github.com/Karunaselvaraj">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karunaselvaraj&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karunaselvaraj&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karunaselvaraj&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karunaselvaraj&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karunaselvaraj&theme=2077" height="180em" />
+</div>
 
-### 🚀 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karunaselvaraj&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
 
 ---
 
