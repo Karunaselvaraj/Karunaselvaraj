@@ -1,25 +1,63 @@
 <h1 align="center">Hi 👋, I'm Karunamoorthy S</h1>
-<h3 align="center">Coder | Learner | Innovator 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1108095697/thumb/1.jpg?ip=x480">
+<h3 align="center" style="color:#FF5733;">🚀 Coder | Learner | Innovator 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karunaselvaraj&label=Profile%20views&color=0e75b6&style=flat" alt="karunaselvaraj" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **karunaselvaraj09@gmail.com**
-
-- ⚡ Fun fact **I am Technically Funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karunamoorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karunamoorthy" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=karunaselvaraj&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunaselvaraj&show_icons=true&locale=en&layout=compact" alt="karunaselvaraj" /></p>
+### 🎯 About Me  
+- 🌱 **Currently Learning:** React & Cloud Computing  
+- 📫 **Reach Me At:** [karunaselvaraj09@gmail.com](mailto:karunaselvaraj09@gmail.com)  
+- ⚡ **Fun Fact:** I am **Technically Funny** 😆  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karunaselvaraj&show_icons=true&locale=en" alt="karunaselvaraj" /></p>
+---
 
+### 🔗 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/karunamoorthy" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
+---
+
+### 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karunaselvaraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karunaselvaraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunaselvaraj&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karunaselvaraj&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+🔥 **Keep Coding & Keep Learning!** 🚀  
+
+---
